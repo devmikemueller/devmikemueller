@@ -15,7 +15,7 @@ const mike = {
         codeMilestone: "Created a program that compiled without errors on the first try!",
         personal: "Launched my biggest project: Family 1.0! (Late nights expected!)",
         fitness: "Reached 10,000 steps daily",
-        learning: "Learned how to turn energy drinks into code (still working on the reverse!)"
+        learning: "Turning energy drinks into code (still working on the reverse!)"
         },
   mission: "Saving the world"
 }
