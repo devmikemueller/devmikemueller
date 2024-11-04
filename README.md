@@ -12,11 +12,11 @@ const mike = {
   tools: [Git, Docker, VS, VSCode],
   architecture: ["API-first design", "RESTful APIs"],
   recentAchievements: {
-        codeMilestone: "Created a program that compiled without errors on the first try!",
-        personal: "Launched my biggest project: Family 1.0! (Late nights expected!)",
-        fitness: "Reached 10,000 steps daily",
-        learning: "Turning energy drinks into code (still working on the reverse!)"
-        },
+    codeMilestone: "Created a program that compiled without errors on the first try!",
+    personal: "Launched my biggest project: Family 1.0! (Late nights expected!)",
+    fitness: "Reached 10,000 steps daily",
+    learning: "Turning energy drinks into code (still working on the reverse!)"
+    },
   mission: "Saving the world"
 }
 ```
