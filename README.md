@@ -1,6 +1,6 @@
 <h2> Hi, I'm Mike! <img src="https://media.giphy.com/media/ywqp9DA5NlCYgYMYRp/giphy.gif" width="75"></h2>
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
-<p><em>Leading Software Developer <a href="https://github.com/macmagermany">@macmagermany</a>
+<p><em>Leading Software Developer & CIO <a href="https://github.com/macmagermany">@macmagermany</a>
 </em></p>
 
 ### <img src="https://media.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif" width="50"> A little more about me...  
